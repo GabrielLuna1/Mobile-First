@@ -26,4 +26,9 @@ Obrigado pela sua atenção e apoio 🙏!
 
 Gabriel Luna.
 
+ <div> 
+  <a href = "mailto:gabriellunajob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-luna-14b00821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div><br>
+
 ![DOOB](https://github.com/GabrielLuna1/Mobile-First/assets/102186692/83376cc8-9701-432c-9d08-217baef4de04)
